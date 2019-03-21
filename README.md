@@ -1,5 +1,5 @@
 # web-dev-playground
-My playground for code while attending The Complete Web Developer in 2019: Zero to Mastery: https://www.udemy.com/share/100HQLA0QTeF5RRHQ=/
+My playground for code while attending [The Complete Web Developer in 2019: Zero to Mastery](https://www.udemy.com/share/100HQLA0QTeF5RRHQ=/)
 
 
 [Lesson 65 - Startup Landing Page CSS Challenge](https://abirrazzak.github.io/web-dev-playground/65-startup-landing-page/ "Lesson 65")
